@@ -1,0 +1,19 @@
+{
+  "name": "frontend-types",
+  "version": "0.0.1",
+  "description": "Module containing shared type declaration for the Lambdulus Frontend application.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambdulus/frontend-types.git"
+  },
+  "author": "Taskkill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lambdulus/frontend-types/issues"
+  },
+  "homepage": "https://github.com/lambdulus/frontend-types#readme"
+}
